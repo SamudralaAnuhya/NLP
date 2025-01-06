@@ -1,2 +1,8 @@
 pandas
+numpy
+pandas
+matplotlib
 scikit-learn
+flask
+memory_profiler
+streamlit
